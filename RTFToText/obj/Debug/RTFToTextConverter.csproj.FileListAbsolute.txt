@@ -1,0 +1,4 @@
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFToText\bin\Debug\RTFToText.dll
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFToText\bin\Debug\RTFToText.pdb
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFToText\obj\Debug\RTFToText.dll
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFToText\obj\Debug\RTFToText.pdb

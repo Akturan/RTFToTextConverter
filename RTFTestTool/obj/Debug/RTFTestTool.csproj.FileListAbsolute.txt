@@ -1,0 +1,8 @@
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\bin\Debug\RTFTestTool.exe.config
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\bin\Debug\RTFTestTool.exe
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\bin\Debug\RTFTestTool.pdb
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\bin\Debug\RTFToText.dll
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\bin\Debug\RTFToText.pdb
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\obj\Debug\RTFTestTool.csprojResolveAssemblyReference.cache
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\obj\Debug\RTFTestTool.exe
+c:\users\entwickler\documents\visual studio 2015\Projects\RTFToText\RTFTestTool\obj\Debug\RTFTestTool.pdb
