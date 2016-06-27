@@ -1,6 +1,6 @@
 # RTFToTextConverter
 
-RTF from string
+####RTF from string
 
 ```
 RichTextBox rtBox = new RichTextBox();
@@ -11,7 +11,7 @@ Console.WriteLine(str);
 Console.ReadLine();
 ```
 
-RTF from file
+####RTF from file
 
 ```
 string str = RTFToText.converting().rtfFromFile(@"C:\Custom Library\test.rtf");
